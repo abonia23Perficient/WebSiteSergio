@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pnsKtC2r9mLIgEvEK0hIAA/E9+dxMnAvLP0HJ4KEYEpnCuAuXux8z+bHHegCO0zKZ603PNqs+ljcdnHOIkL4xg==",
+  "success": true,
+  "projectFilePath": "D:\\Info\\.Net\\.net Web Site\\SergioWebSite\\SergioWebSite.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sergio.ospinaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
