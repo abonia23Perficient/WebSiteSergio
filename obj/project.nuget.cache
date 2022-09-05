@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pnsKtC2r9mLIgEvEK0hIAA/E9+dxMnAvLP0HJ4KEYEpnCuAuXux8z+bHHegCO0zKZ603PNqs+ljcdnHOIkL4xg==",
+  "dgSpecHash": "D6dkagtLVU8yJtLV9Zsfm8t0MujxJG8/jxpd7SnpmJ0fODhfxTmNr0xJ8Liyakva075a8D6kN7sfS3BhhUXr8w==",
   "success": true,
-  "projectFilePath": "D:\\Info\\.Net\\.net Web Site\\SergioWebSite\\SergioWebSite.csproj",
+  "projectFilePath": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sergio.ospinaa\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],

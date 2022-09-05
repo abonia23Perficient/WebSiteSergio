@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Info\\.Net\\.net Web Site\\SergioWebSite\\SergioWebSite.csproj": {}
+    "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj": {}
   },
   "projects": {
-    "D:\\Info\\.Net\\.net Web Site\\SergioWebSite\\SergioWebSite.csproj": {
+    "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Info\\.Net\\.net Web Site\\SergioWebSite\\SergioWebSite.csproj",
+        "projectUniqueName": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj",
         "projectName": "SergioWebSite",
-        "projectPath": "D:\\Info\\.Net\\.net Web Site\\SergioWebSite\\SergioWebSite.csproj",
+        "projectPath": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj",
         "packagesPath": "C:\\Users\\sergio.ospinaa\\.nuget\\packages\\",
-        "outputPath": "D:\\Info\\.Net\\.net Web Site\\SergioWebSite\\obj\\",
+        "outputPath": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
