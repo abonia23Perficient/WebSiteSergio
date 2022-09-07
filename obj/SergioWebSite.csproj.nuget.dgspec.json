@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj": {}
+    "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite.csproj": {}
   },
   "projects": {
-    "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj": {
+    "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj",
+        "projectUniqueName": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite.csproj",
         "projectName": "SergioWebSite",
-        "projectPath": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\SergioWebSite.csproj",
+        "projectPath": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite.csproj",
         "packagesPath": "C:\\Users\\sergio.ospinaa\\.nuget\\packages\\",
-        "outputPath": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\SergioWebSite\\obj\\",
+        "outputPath": "D:\\Info\\.Net\\.net Web Site\\WebSiteSergio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -21,15 +21,15 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net6.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net6.0": {
+            "targetAlias": "net6.0",
             "projectReferences": {}
           }
         },
@@ -40,24 +40,19 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "imports": [
             "net461",
             "net462",
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -66,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
